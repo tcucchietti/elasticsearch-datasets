@@ -1,0 +1,4 @@
+strings based data
+======================
+
+WIP :)

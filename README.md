@@ -16,5 +16,5 @@ Each dataset has been tested with the following versions of the ELK stack :
 
 # Use cases
 
-* [geolocated data](geolocated/README.md)
-* [names, strings](strings/README.md)
+* [geolocated data](geolocated)
+* [names, strings](strings)

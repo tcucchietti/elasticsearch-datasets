@@ -1,4 +1,4 @@
 geolocated data
 ======================
 
-* [French gas stations](gas_stations/README.md)
+* [French gas stations](gas_stations)
